@@ -22,7 +22,7 @@ session_start(); //start temp session until logout/browser closed
     <link href="css/animate.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="css/style.css" rel="stylesheet"> </head>
-//Nisar
+
 <body class="home">
     <div class="site-wrapper animsition" data-animsition-in="fade-in" data-animsition-out="fade-out">
         <!--header starts-->
